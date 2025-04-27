@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Webcam-Photo-Sharer.iml" filepath="$PROJECT_DIR$/.idea/Webcam-Photo-Sharer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Webcam-Photo-Searcher.iml" filepath="$PROJECT_DIR$/.idea/Webcam-Photo-Searcher.iml" />
     </modules>
   </component>
 </project>
